@@ -1,0 +1,59 @@
+.front-cover {
+    position: relative;
+}
+
+.front-cover .cover-img {
+    width: 100%;
+}
+
+.front-cover .cover-text {
+    position: absolute;
+    font-size: 2.75vw;
+    top: 25%;
+    margin-left: 5%;
+}
+
+.models {
+    display: flex;
+    justify-content: space-around;
+}
+
+.models img {
+    width: 18vw;
+    display: block;
+}
+
+.models span {  
+    display: flex;
+    justify-content: center;
+    font-size: 2vw; 
+}
+
+.models a {
+    color: #CCCCCC;
+}
+
+.models a:visited {
+    color: #CCCCCC;
+
+}
+
+.build {
+    display: flex;
+    justify-content: center;
+}
+.build a {
+    text-align: center;
+    width: fit-content;
+    padding: 1vw 2vw 1vw 2vw; 
+    margin: 1.5vw;
+    font-size: 2vw;
+    background-color: #CCCCCC;
+    color: #181A1B;
+    border-radius: 1vw;
+}
+
+.heading {
+    font-size: 1.5vw;
+    margin-left: 1vw;
+}

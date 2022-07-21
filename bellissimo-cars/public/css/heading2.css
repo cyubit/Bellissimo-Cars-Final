@@ -1,0 +1,12 @@
+header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.heading {
+    font-size: 1.5vw;
+}
+
+.navbar li{
+    margin: auto 55px auto 55px;
+}
