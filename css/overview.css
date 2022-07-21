@@ -1,0 +1,12 @@
+.description {
+    background-color: black;
+    padding: 2vw;
+}
+
+.nav-options {
+    margin: 2vw auto;
+}
+
+.sublist li {
+    list-style-type: disc;
+}

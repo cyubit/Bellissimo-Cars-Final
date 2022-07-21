@@ -1,0 +1,46 @@
+.page-heading{
+    font-size: 1.5vw;
+    margin-left: 1vw;
+}
+
+.entry {
+    margin: 3vw;
+}
+
+p {
+    font-size: 1.5vw;
+    color: white;    
+}
+
+.form {
+    margin: 5vw;
+    background-color: black;
+    padding: 3vw;
+    border-radius: 0.3vw;
+    color: #CCC; 
+    font-size: 1.75vw;
+}
+
+.fields input {
+    display: block;
+    margin-bottom: 1vw;
+    padding:5px;
+    width: 25%;
+}
+
+.fields .question {
+    width: 80%;
+    height: 5vw;
+}
+
+.fields .submit {
+    display: flex;
+    justify-content: center;
+}
+
+.submit input {
+    margin-top: 1vw;
+    margin-bottom: 0;
+    height: 2vw;
+    border-radius: 0.3vw;
+}
